@@ -2,7 +2,7 @@
 
 1. Zaliczenie: 
  - [x] Ads Application
- - [x] [link do wdrozonej aplikacji]
+ - [x] [link do wdrozonej aplikacji](https://songapp-ruby-.herokuapp.com/)
  
 |Wersja Ruby|Wersja Rails|Baza danych|
 |---|---|---|
