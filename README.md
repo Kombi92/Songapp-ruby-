@@ -2,7 +2,7 @@
 
 1. Zaliczenie: 
  - [x] Ads Application
- - [x] [link do wdrozonej aplikacji](https://anetashop2.herokuapp.com)
+ - [x] [link do wdrozonej aplikacji]
  
 |Wersja Ruby|Wersja Rails|Baza danych|
 |---|---|---|
