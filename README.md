@@ -1,25 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Zaliczenie: 
+ - [x] Ads Application
+ - [x] [link do wdrozonej aplikacji]
+ 
+|Wersja Ruby|Wersja Rails|Baza danych|
+|---|---|---|
+|2.3.0-p0|5.0.0.rc1|SQLite|
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Songapp-ruby-
+Aplikacja słuzy do zapisywania i tworzenia listy swoich ulubionych piosenek.
