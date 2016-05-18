@@ -101,8 +101,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Song App/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            <state relative-caret-position="495">
+              <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -712,7 +712,7 @@
       <workItem from="1463060466714" duration="562000" />
       <workItem from="1463061050847" duration="10330000" />
       <workItem from="1463435110459" duration="2604000" />
-      <workItem from="1463531123295" duration="9850000" />
+      <workItem from="1463531123295" duration="10158000" />
     </task>
     <servers />
   </component>
@@ -731,7 +731,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25639000" />
+    <option name="totallyTimeSpent" value="25947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="692" y="46" width="1118" height="1034" extended-state="4" />
@@ -1156,8 +1156,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Song App/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        <state relative-caret-position="495">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
           <folding />
         </state>
       </provider>
